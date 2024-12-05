@@ -1,4 +1,4 @@
-### study-of-basic-gates
+# EXP1:STUDY OF BASIC DIGITAL IC'S AND VERIFICATION OF TRUTH TABLES FOR DIFFERENT LOGIC GATES,REALIZATION USING VERILOG
 
 **AIM:** 
 
@@ -66,14 +66,23 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ ![shalu code](https://github.com/user-attachments/assets/91c4c6ed-2c60-4f5e-a1f0-fec3bcfb2eec)
+
  
 **Logic symbol & Truthtable**
 
-**RTL realization Output:** 
+![shalu truthtable](https://github.com/user-attachments/assets/52ab048f-1e82-46c8-97fd-8da333bce6a4)
 
-**RTL**
+
+**RTL realization output**
+
+![shaludiagram](https://github.com/user-attachments/assets/ef31e7d9-ce75-4828-bff8-9f2c22079f27)
+
+**OUTPUT**
+
+![shaluwaveform](https://github.com/user-attachments/assets/80556ebf-81c8-463d-9f14-02ba8ad014ac)
 
 **Result:**
 
+Thus the different digital IC'S are studied and the truth table for different logic gatess are verified.
 
